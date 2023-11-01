@@ -53,9 +53,6 @@ int Tr = 620000; //vel=80s
 //int Tr = 465000; //vel=60s
 int U1pwm=0;
 float U1=0;
-float Up1=0;
-float Upp1=0;
-float Uppp1=0;
 float E1=0;
 
 //float R1=80.0;
